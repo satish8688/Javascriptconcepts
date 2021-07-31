@@ -41,7 +41,7 @@ let employees = [
         "last_name": "Howell",
         "avatar": "https://reqres.in/img/faces/12-image.jpg"
     }
-];
+]; 
 
 let list = document.querySelector('#list');
 let arrElements = [];
